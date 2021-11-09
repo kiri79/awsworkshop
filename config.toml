@@ -1,7 +1,9 @@
 # RelativeURLs=true
 # CanonifyURLs=true
-languageCode = "en-US"
-defaultContentLanguage = "en"
+#languageCode = "en-US"
+#defaultContentLanguage = "en"
+languageCode = "ja"
+defaultContentLanguage = "ja"
 
 title = "AWS Cloud Security Virtual Event"
 theme = "learn"
@@ -25,7 +27,7 @@ defaultContentLanguageInSubdir= true
   themeVariant = "workshops"
   disableSearch = true
   disableAssetsBusting = true
-  disableLanguageSwitchingButton = true
+  disableLanguageSwitchingButton = false
   disableShortcutsTitle = true
   disableInlineCopyToClipBoard = true
   showVisitedLinks = true
