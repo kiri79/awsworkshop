@@ -1,5 +1,5 @@
 +++
-title = "600 アカウントのセキュリティを見る"
+title = "運用してわかった SIEM on Amazon OpenSearch Service の構築とインシデント対応の実際"
 chapter = false
 weight = 313
 +++
