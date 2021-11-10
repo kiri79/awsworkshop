@@ -1,6 +1,6 @@
 +++
 title = "Workshops"
-date = 2021-11-10T09:00:00+9:00
+date = 2019-11-18T08:23:04+11:00
 weight = 4
 chapter = false
 disableToc = "false"
