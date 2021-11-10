@@ -1,0 +1,19 @@
++++
+title = "Keynote 1: Confidential Computing & AWS"
+chapter = false
++++
+
+AWS CISO's Steve Schmidt explains how Amazon Web Services (AWS) provides Confidential Computing technology in detail. In this session, we will talk about the hardware specifications of EC2 Nitro instances and the guarantees we provide to our customers with respect to data protection and data sovereignty. By participating in this session, you will gain a better understanding of how to keep sensitive personally identifiable information (PII) safe on the AWS cloud.
+
+{{< rawhtml >}}
+<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/keynote_1.pdf" width="696" height="392"></iframe>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<video width="696" height="392" controls>
+  <source src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/keynote_1.mp4" type="video/mp4">
+  Your browser doesn't support video.
+</video>
+{{< /rawhtml >}}
+
+>  **Speakers: Stephen Schmidt, Vice President and Chief Information Security Officer, Amazon Web Services, Inc.** 
