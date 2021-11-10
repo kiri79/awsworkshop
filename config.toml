@@ -1,11 +1,13 @@
 # RelativeURLs=true
 # CanonifyURLs=true
-#languageCode = "en-US"
-#defaultContentLanguage = "en"
+# languageCode = "en-US"
+# defaultContentLanguage = "en"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 
-title = "AWS Cloud Security Virtual Event"
+# title = "AWS Cloud Security Virtual Event"
+title = "AWS Security Roadshow Japan 2021"
+
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
