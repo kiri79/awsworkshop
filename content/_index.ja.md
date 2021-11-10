@@ -9,7 +9,7 @@ chapter = false
 
 このサイトでは、AWS Security Roadshow Japan 2021 でのセッション資料や動画、ワークショップ資料を参照できます。
 
-## Agenda
+## 目次
 
-  - [セッション資料および動画](/agenda/#on-demand-tracks)
-  - [ワークショップ](/agenda/#workshops) 
+  - [セッション資料および動画](/ja/agenda/#on-demand-tracks)
+  - [ワークショップ](/ja/agenda/#workshops) 

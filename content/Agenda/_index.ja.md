@@ -4,7 +4,7 @@ weight = 2
 toc = true
 
 +++
-<!-->
+<!--
 The AWS Cloud Security Virtual event aims to improve your cloud security skills through a series of guided workshops, Security JAM scenario challenges and on-demand talks. In this portal you will find the following:
 -->
 AWS Security Roadshow Japan 2021 ではクラウドセキュリティを学ぶためのセッションやワークショップを実施しました。
