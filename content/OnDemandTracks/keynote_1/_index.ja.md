@@ -1,5 +1,5 @@
 +++
-title = "基調講演１: Confidential Computing & AWS"
+title = "基調講演1: Confidential Computing & AWS"
 chapter = false
 +++
 
