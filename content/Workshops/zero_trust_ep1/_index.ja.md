@@ -1,6 +1,6 @@
 +++
 title = "AWS Zero Trust Workshop Episode 1"
-date = 2021-11-12T09:00:00+09:00
+date = 2019-11-18T08:23:04+11:00
 chapter = false
 weight = 11
 +++
