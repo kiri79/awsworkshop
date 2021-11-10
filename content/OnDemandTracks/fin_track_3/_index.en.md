@@ -1,5 +1,7 @@
 +++
 title = "DevSecOps at PayPay achieving secure and fast development"
+chapter = false
+weight = 308
 +++
 
 This session discusses the challenges of managing security compliance for multiple AWS accounts and discusses how the DevSecOps team explores Infrastructure as Code, AWS Learn how to enforce security compliance using Security Hub and Automation.

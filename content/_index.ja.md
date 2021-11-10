@@ -11,5 +11,5 @@ chapter = false
 
 ## 目次
 
-  - [セッション資料および動画](/ja/agenda/#on-demand-tracks)
-  - [ワークショップ](/ja/agenda/#workshops) 
+  - [セッション資料および動画](/ja/agenda/#セッション資料および動画)
+  - [ワークショップ](/ja/agenda/#ワークショップ) 

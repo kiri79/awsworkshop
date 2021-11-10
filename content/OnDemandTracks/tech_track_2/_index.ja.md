@@ -1,6 +1,7 @@
 +++
 title = "600 アカウントのセキュリティを見る"
 chapter = false
+weight = 313
 +++
 
 freee PSIRT では、SIEM on Amazon OpenSearch Service を用いて、サービスのセキュリティを維持する業務を遂行しています。本セッションでは、1 年前に freee PSIRT が抱えていた課題とその解決方法、SIEM の構築や運用を行う上で注意すべき点、実際の incident 対応の例、残る課題今後の展望をご紹介します。

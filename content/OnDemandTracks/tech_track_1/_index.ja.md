@@ -1,6 +1,7 @@
 +++
 title = "AWS Nitro Enclaves で実現する分離されたコンピューティング環境"
 chapter = false
+weight = 312
 +++
 
 AWS Nitro Enclaves は、高度な機密情報の保護や安全措置を向上する、分離されたコンピューティング環境 (enclaves) を、お客様が Amazon EC2 インスタンス上に作成することができる新しい EC2 の機能です。本セッションでは、 Nitro Enclaves およびそれを実現する基盤となる AWS Nitro System の概要をご紹介します。

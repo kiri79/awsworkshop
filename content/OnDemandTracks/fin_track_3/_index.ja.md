@@ -1,6 +1,7 @@
 +++
 title = "DevSecOps at PayPay achieving secure and fast development (安全かつ迅速な開発を実現する PayPay の DevSecOps)"
 chapter = false
+weight = 308
 +++
 
 本セッションでは、複数の AWS アカウントのセキュリティコンプライアンスを管理する際の課題と、DevSecOps チームが Infrastructure as Code、AWS Security Hub、オートメーションを使用してセキュリティコンプライアンスを実施する方法についてご説明します。

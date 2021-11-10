@@ -1,6 +1,7 @@
 +++
 title = "AWS 環境で重要データを保護するセキュリティモデル：データ境界 (Data Perimeter) を学ぶ"
 chapter = false
+weight = 316
 +++
 
 クラウド移行が進むに伴い、ビジネスにとって重要なデータがクラウド上で扱われることが多くなってきています。本セッションでは、重要データを保護するセキュリティモデルとなるデータ境界 (Data Perimeter) の概念を紹介し、AWS サービスを用いた実現例を説明します。最後に、その学習機会として Day2 で実施する Zero Trust Workshop や Security GameDay をご紹介します。

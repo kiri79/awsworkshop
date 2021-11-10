@@ -10,8 +10,8 @@ The AWS Cloud Security Virtual event aims to improve your cloud security skills 
 AWS Security Roadshow Japan 2021 ではクラウドセキュリティを学ぶためのセッションやワークショップを実施しました。
 このポータルでは以下を参照することができます。
 
-  - [セッション資料および動画](#on-demand-tracks)  
-  - [ワークショップ](#workshops)  
+  - [セッション資料および動画](#セッション資料および動画)  
+  - [ワークショップ](#ワークショップ)  
  
 ## セッション資料および動画
 
