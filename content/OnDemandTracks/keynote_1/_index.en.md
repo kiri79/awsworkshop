@@ -8,6 +8,7 @@ AWS CISO's Steve Schmidt explains how Amazon Web Services (AWS) provides Confide
 
 {{< rawhtml >}}
 <iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1_en.pdf" name="keynote_1" width="696" height="392"></iframe>
+<a href="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1_en.pdf" target="keynote_1"></a>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
