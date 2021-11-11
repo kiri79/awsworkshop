@@ -7,16 +7,16 @@ weight = 311
 金融機関におけるクラウドの利用は、デジタル・トランスフォーメーションやデータ分析を始め、勘定系といった領域においても導入が進むなど、その利活用が年々増えてきています。一方で、クラウドには興味があるものの漠然とした不安や懸念があると答える金融機関も多くあります。本セッションでは、クラウド利活用に対するこれらの不安や懸念と、その解決策を深堀します。
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/fin_track_6_1.pdf" width="696" height="392"></iframe>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/fin_track_6_1.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/fin_track_6_2.pdf" width="696" height="392"></iframe>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/fin_track_6_2.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/fin_track_6.mp4" type="video/mp4">
+  <source src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/fin_track_6.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
 {{< /rawhtml >}}

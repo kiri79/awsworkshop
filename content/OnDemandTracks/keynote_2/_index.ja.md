@@ -7,16 +7,25 @@ weight = 302
 ワクチン接種記録システム（VRS）を政府システムとしては異例の2ヶ月という短期間で構築できたのは、クラウドが提供するガバナンス・セキュリティ機能の活用が肝でした。VRSは、Infrastructure as Code（IaC）の手法で、すべてマネージドサービスで構築され、それがゆえにクラウドのセキュリティ機能をフル活用できています。この短期間でどう構築し、どうセキュリティを実現したかについてその裏側をお話します。
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/keynote_2_1.pdf" width="696" height="392"></iframe>
+<video width="696" height="392" controls>
+  <source src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_1.mp4" type="video/mp4">
+  Your browser doesn't support video.
+</video>
+{{< /rawhtml >}}
+
+>  **Speakers: デジタル大臣　牧島 かれん 氏** 
+
+{{< rawhtml >}}
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_1.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/keynote_2_2.pdf" width="696" height="392"></iframe>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_2.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/OnDemandTracks/keynote_2.mp4" type="video/mp4">
+  <source src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_2.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
 {{< /rawhtml >}}

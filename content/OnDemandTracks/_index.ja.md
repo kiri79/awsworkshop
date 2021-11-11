@@ -3,12 +3,6 @@ title = "セッション資料および動画"
 weight = 3
 +++
 
-<!--
-## On-Demand Tracks 
-
-Watch the following great talks about AWS cloud security, presented by a mix of AWS customers and AWS experts.
--->
-
 AWS Security Roadshow Japan 2021 における、AWS 利用者や AWS 専門家によるセッションの資料及び動画を参照できます。
 
 | Topic | Description | Skill Level |

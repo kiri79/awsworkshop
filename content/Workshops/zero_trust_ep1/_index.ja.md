@@ -12,7 +12,7 @@ weight = 11
 ### ワークショップ概要
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshowjapan2021.s3.ap-northeast-1.amazonaws.com/Workshops/workshop_1.pdf" width="696" height="392"></iframe>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/Workshops/workshop_1.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 >  **Speakers: Nobuhiko Kawai, Amazon Web Service Japan; Hayato Kiriyama, Amazon Web Service Japan** 
