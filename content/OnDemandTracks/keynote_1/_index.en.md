@@ -7,10 +7,9 @@ weight = 301
 AWS CISO's Steve Schmidt explains how Amazon Web Services (AWS) provides Confidential Computing technology in detail. In this session, we will talk about the hardware specifications of EC2 Nitro instances and the guarantees we provide to our customers with respect to data protection and data sovereignty. By participating in this session, you will gain a better understanding of how to keep sensitive personally identifiable information (PII) safe on the AWS cloud.
 
 {{< rawhtml >}}
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1.pdf" width="696" height="392"></iframe>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1.pdf" width="696" height="392"></iframe>
+<a href="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1.pdf" target="_blank">セッション資料</a>
 {{< /rawhtml >}}
-<a href="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_1.pdf" target="_blank">リンク</a>
-セッション資料
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
