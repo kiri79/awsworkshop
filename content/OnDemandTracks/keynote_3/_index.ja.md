@@ -7,8 +7,7 @@ weight = 303
 わが国の金融機関において、クラウドはデジタル技術活用の重要な選択肢であり、経営陣もクラウドの知見を有することが必要になっている。日本銀行は昨年 11 月にレポートを公表し、セキュリティ管理、可用性、委託先管理等の重要事項や、クラウドのメリットを享受するためのコスト管理等の管理項目および取組事例を取り纏めた。本セッションでは、同レポートに沿って、金融機関におけるクラウドのリスク管理について解説します。
 
 {{< rawhtml >}}
-<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_3.pdf" name="keynote_3" width="696" height="392"></iframe>
-<a href="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_3.pdf" target="keynote_3"></a>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_3.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

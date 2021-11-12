@@ -21,8 +21,7 @@ weight = 302
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_2.pdf" name="keynote_2_2" width="696" height="392"></iframe>
-<a href="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_2.pdf" target="keynote_2_2"></a>
+<iframe src="https://dxjsvn24c4x1f.cloudfront.net/OnDemandTracks/keynote_2_2.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
