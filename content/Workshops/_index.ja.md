@@ -6,14 +6,6 @@ chapter = false
 disableToc = "false"
 +++
 
-<!-->
-## Workshops
-
-These workshops are designed to help you get familiar with AWS Security and Operational services so you can improve your security and compliance objectives. You'll be working with services such as AWS Systems Manager (operational management), AWS Config (configuration change management), Amazon Inspector (vulnerability & behavior analysis) and AWS WAF (web application firewall). 
-
-At the start of each workshop you will be able to watch a short video that will provide you an overview and a real world example.
--->
-
 このワークショップは AWS 環境におけるセキュリティおよびコンプライアンスを向上させるため、AWS セキュリティサービスに慣れ親しむために設計されたものです。
 
 | Topic | Description | Skill Level | Time |
