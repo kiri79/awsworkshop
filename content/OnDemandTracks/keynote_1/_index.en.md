@@ -1,5 +1,5 @@
 +++
-title = "Keynote 1: Confidential Computing & AWS"
+title = "Keynote 1: Confidential Computing on AWS"
 chapter = false
 weight = 301
 +++
