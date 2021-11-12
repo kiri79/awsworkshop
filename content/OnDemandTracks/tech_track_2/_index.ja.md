@@ -17,5 +17,5 @@ freee PSIRT では、SIEM on Amazon OpenSearch Service を用いて、サービ�
 </video>
 {{< /rawhtml >}}
 
->  **Speakers: Freee株式会社 PSIRT Tech Lead　杉浦 英史 氏** 
+>  **Speakers: freee株式会社 PSIRT Tech Lead　杉浦 英史 氏** 
 
