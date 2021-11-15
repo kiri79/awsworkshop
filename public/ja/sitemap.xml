@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/ja/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
+    <lastmod>2019-11-18T08:23:04+11:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,12 +14,6 @@
                 hreflang="ja"
                 href="/ja/"
                 />
-  </url><url>
-    <loc>/ja/workshops/module1/scenario/</loc>
-    <lastmod>2019-11-18T17:11:06+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/scenario/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
   </url><url>
     <loc>/ja/agenda/</loc>
     <xhtml:link
@@ -33,12 +27,6 @@
                 href="/ja/agenda/"
                 />
   </url><url>
-    <loc>/ja/workshops/module3/perimeter-assess/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/perimeter-remediate/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
     <loc>/ja/ondemandtracks/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,58 +39,93 @@
                 href="/ja/ondemandtracks/"
                 />
   </url><url>
-    <loc>/ja/workshops/module4/scenario/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/perimeter-verify/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module4/rds/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/host-assess/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/host-remediate/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module4/fargate/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module3/host-verify/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module1/evaluate/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module2/sysmgrlabsetup/</loc>
-  </url><url>
-    <loc>/ja/workshops/module1/configure/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module2/systemsmanager/</loc>
-  </url><url>
-    <loc>/ja/workshops/module2/inventory/</loc>
-  </url><url>
-    <loc>/ja/workshops/module1/portforward/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module2/statemgr/</loc>
-  </url><url>
-    <loc>/ja/workshops/module1/ssh/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module2/patch/</loc>
-  </url><url>
-    <loc>/ja/workshops/module1/rdp/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
-  </url><url>
-    <loc>/ja/workshops/module2/configlabsetup/</loc>
-  </url><url>
-    <loc>/ja/workshops/module2/config/</loc>
-  </url><url>
     <loc>/ja/workshops/</loc>
-    <lastmod>2019-11-18T17:11:28+11:00</lastmod>
+    <lastmod>2019-11-18T08:23:04+11:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/workshops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/workshops/"
+                />
+  </url><url>
+    <loc>/ja/workshops/zero_trust_ep1/</loc>
+    <lastmod>2019-11-18T08:23:04+11:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/workshops/zero_trust_ep1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/workshops/zero_trust_ep1/"
+                />
+  </url><url>
+    <loc>/ja/ondemandtracks/keynote_1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/ondemandtracks/keynote_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/ondemandtracks/keynote_1/"
+                />
+  </url><url>
+    <loc>/ja/ondemandtracks/keynote_2/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/keynote_3/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/keynote_4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/ondemandtracks/keynote_4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/ondemandtracks/keynote_4/"
+                />
+  </url><url>
+    <loc>/ja/ondemandtracks/keynote_5/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_1/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_2/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/ondemandtracks/fin_track_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/ondemandtracks/fin_track_3/"
+                />
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_4/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_5/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/fin_track_6/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/tech_track_1/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/tech_track_2/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/tech_track_3/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/tech_track_4/</loc>
+  </url><url>
+    <loc>/ja/ondemandtracks/tech_track_5/</loc>
   </url><url>
     <loc>/ja/categories/</loc>
     <xhtml:link
@@ -126,18 +149,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/tags/"
-                />
-  </url><url>
-    <loc>/ja/ondemandtracks/keynote_1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/ondemandtracks/keynote_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/ondemandtracks/keynote_1/"
                 />
   </url>
 </urlset>
