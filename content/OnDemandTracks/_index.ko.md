@@ -1,0 +1,27 @@
++++
+title = "On-Demand Tracks"
+weight = 3
++++
+
+
+## On-Demand Tracks 
+
+AWS 보안 전문가, 데이터베이스 전문가, 네트워크/컨테이너 전문가, 개발 전문가 등 다양한 영역의 전문가들이 제공하는 기술 세션과 함께 AWS 환경에서 금융서비스를 제공하고 있는 실제 고객 사례를 살펴보시기 바랍니다.
+
+| 주제 | 소개 | 난이도 |
+|-----------|---------|---------|
+| [Keynote : 보안 그 이상의 보안](/ko/ondemandtracks/kr_keynote)| 세션 설명 | 100-200 | 
+| [고객 사례 발표: 구름 속에 가려진 보안, 그 실체는 존재하는가? ](/ko/ondemandtracks/kr_customersession)| On-Premise에 익숙한 보안담당자는 클라우드 환경에서 보안 아키텍처를 설계하고, 클라우드 환경에서 3rd-party 보안 솔루션 또는 native resource를 구성하는 것이 마치 실체가 존재하지 않는 허공에 그림을 그리는 것 같은 느낌을 받을 때가 많습니다. 클라우드 환경에서 보안이라는 실체를 찾아가는 방법을 제안해 봅니다. | 100 | 
+| [세션 1: Amazon Aurora 의 보안 기능들 살펴보기 ](/ko/ondemandtracks/kr_session_1)| Amazon Aurora에는 보안과 감사 기능을 위해서 다양한 기능을 제공하고 있습니다. 주요 기능별로 각각 어떻게 동작하는지 살펴보고 활용 방안에 대해 설명합니다. | 200 |
+| [세션 2: AWS 네트워킹 서비스 기반의 인프라 보호를 위한 디자인 아키텍처 소개 ](/ko/ondemandtracks/kr_session_2)| AWS VPC, Security Group, Network Access Control List의 기본 디자인에서 부터 GWLB, ANFW, AVA, VPN의 Advanced 디자인까지 AWS 안에서 엔터프라이즈, 디지털 네이티브 고객들이 사용 중인 소중한 자원을 보호하기 위한 다양하고 심도 깊은 디자인들을 소개합니다. | 200 |
+| [세션 3: 이 레시피를 따르면, 보안 맛집이 됩니다 ](/ko/ondemandtracks/kr_session_3)| 현재 많은 고객사에서 진단/설계/구축되고 있는 ECSA(Enhanced Cloud Security Assessment) 여정을 고객사 사례와 함께 소개하며, 멀티 어카운트 환경에서 Control Tower를 통한 거버넌스/비용통제를 기반으로 다양한 보안 솔루션과의 통합 및 고도화, 나아가 자동화된 침해사고대응 사례들을 알아봅니다. | 200-300 |
+| [세션 4: Threat Hunting 의 시작, 보안 로그 데이터 분석의 첫 여정 ](/ko/ondemandtracks/kr_session_4)| AWS 환경에서 만들어지는 수많은 로그와 고도화되어 가는 보안 위협에 어떻게 위협을 인지하고 대응해야 할까요? 그 기본이 되는 다양한 로그를 이해해 보고 수집된 로그 데이터에 가시성을 확보하여 위협 추적 사례도 알아봅니다. 또한 최근 발표된 Amazon Security Lake 서비스를 통해 보안 데이터를 정규화하고 통합할 수 있는 방법도 소개합니다. | 200-300 |
+| [세션 5: 우리 이제 개인정보와 친해져볼까요? ](/ko/ondemandtracks/kr_session_5)| 비즈니스를 위해 많이 활용하는 개인정보와 신용정보, 온프레미스에서는 잘 관리하고 계셨을 겁니다. 그렇다면 클라우드에서는 어떠신가요? AWS 클라우드 환경에서 우리가 노력해야 할 개인정보와 신용정보 관리에 대해 법규제 중심으로 알아보고 어떻게 보호할 수 있는지도 알아봅니다.(feat: 개인정보 보호법, 신용정보법) | 200-300 |
+| [세션 6: AWS 서비스를 활용한 미디어 콘텐츠 보안 강화 방안 소개 ](/ko/ondemandtracks/kr_session_6)| 미디어 서비스를 제공하는 고객사에서 필수로 고려되어야 하는 콘텐츠 보안 강화 방안은 다양한 방법이 존재합니다. AWS MediaPackage에서 CDN authorization, DRM 솔루션과 연동 기능을 활용할 수도 있고, Amazon CloudFront를 활용하여 Signed URL, Signed Cookie를 적용하는 방법 등 미디어 콘텐츠를 보호하고 안전하게 전달할 수 있는 활용 방안들에 대해 소개합니다. | 200-300 |
+| [세션 7: 결국 S3, 제대로 보호해 봅시다 ](/ko/ondemandtracks/kr_session_7)| AWS 환경에서 데이터 분석은 상당히 많은 경우 S3를 활용하여 이루어집니다. 개인정보, 성능 및 보안 로그, 업무자료, AI 기반 자료 등 중요한 데이터가 모이고 보관되는 S3에 대한 보호가 미흡할 경우 예기치 못한 상황에 처할 수 있습니다. S3에 저장된 데이터를 보호할 수 있도록 마련된 다양한 기능과 장치를 살펴보고, 제대로 보호할 수 있도록 하는 모범사례들을 적용해 보겠습니다. | 200-300 |
+| [세션 8: 안전한 코드개발을 위한 Amazon CodeWhisperer와 Amazon CodeGuru ](/ko/ondemandtracks/kr_session_8)| Amazon CodeGuru Security는 사용자에게 권장사항을 제공하고 취약성의 상태를 추적하는 정적 애플리케이션 보안 테스트(SAST) 도구입니다. CodeWhisperer는 수십억 줄의 코드에 대해 교육을 받았으며 주석 및 기존 코드를 기반으로 스니펫에서 전체 기능에 이르는 코드 제안을 실시간으로 생성할 수 있습니다. 이 다양한 도구들을 가지고 여러분의 애플리케이션을 안전하게 유지하는 방법에 대해 알아보겠습니다. | 200-300 |
+| [세션 9: 안전한 Amazon EKS 환경의 MSA 구축하기 ](/ko/ondemandtracks/kr_session_9)| Amazon EKS(Elastic Kubernetes Service)는 고객의 애플리케이션 현대화와 MSA 아키텍처를 손쉽게 구축할 수 있도록 도움을 드리는 완전관리형 Kubernetes 서비스입니다. Amazon EKS 환경에서 고객들이 안전하게 디자인하고 운영할 수 있는 핵심 보안 기능들인 네트워크, 계정 관리, 이미지 관리, Pod 보안 등을 소개합니다. | 200-300 |
+
+
+
+
