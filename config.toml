@@ -51,4 +51,9 @@ title = "AWS Security Roadshow Japan 2021"
 weight = 1
 languageName = "日本語"
 languageCode = "ja"
+[Languages.ko]
+title = "AWS Security and Risk Management Forum 2023"
+weight = 3 
+languageName = "한국어"
+languageCode = "ko"
 
