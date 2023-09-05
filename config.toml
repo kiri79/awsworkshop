@@ -2,11 +2,11 @@
 # CanonifyURLs=true
 # languageCode = "en-US"
 # defaultContentLanguage = "en"
-languageCode = "ja"
-defaultContentLanguage = "ja"
+languageCode = "ko"
+defaultContentLanguage = "ko"
 
 # title = "AWS Cloud Security Virtual Event"
-title = "AWS Security Roadshow Japan 2021"
+title = "AWS Security and Risk Management Forum 2023 in Korea"
 
 theme = "learn"
 metaDataFormat = "yaml"
@@ -42,17 +42,8 @@ plainIDAnchors = true
 hrefTargetBlank = true
 
 [Languages]
-[Languages.en]
-title = "AWS Cloud Security Virtual Event"
-weight = 2
-languageName = "English"
-[Languages.ja]
-title = "AWS Security Roadshow Japan 2021"
-weight = 1
-languageName = "日本語"
-languageCode = "ja"
 [Languages.ko]
-title = "AWS Security and Risk Management Forum 2023"
+title = "AWS Security and Risk Management Forum 2023 in Korea"
 weight = 3 
 languageName = "한국어"
 languageCode = "ko"
